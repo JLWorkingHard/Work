@@ -1,0 +1,129 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "minisat",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "minisat",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ece650-prj",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "minisat",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ece650-prj::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ece650-prj-Debug-da23d72a6eb69c4b3ce4.json",
+					"name" : "ece650-prj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "minisat-lib-shared::@05cc517457fd809a7ac0",
+					"jsonFile" : "target-minisat-lib-shared-Debug-78bedc2669f675e5bdce.json",
+					"name" : "minisat-lib-shared",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "minisat-lib-static::@05cc517457fd809a7ac0",
+					"jsonFile" : "target-minisat-lib-static-Debug-aadccaa098510edcf2b7.json",
+					"name" : "minisat-lib-static",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "minisat_core::@05cc517457fd809a7ac0",
+					"jsonFile" : "target-minisat_core-Debug-8b7e9c5cd35175474f11.json",
+					"name" : "minisat_core",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "minisat_simp::@05cc517457fd809a7ac0",
+					"jsonFile" : "target-minisat_simp-Debug-1cd8c9d2d42c74df397b.json",
+					"name" : "minisat_simp",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/26409/x226luo/project/build",
+		"source" : "/mnt/c/Users/26409/x226luo/project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

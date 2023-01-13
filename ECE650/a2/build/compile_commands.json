@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/mnt/c/Users/26409/x226luo/a2/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -std=c++11 -Wall  -g   -o CMakeFiles/tests.dir/test.cpp.o -c /mnt/c/Users/26409/x226luo/a2/test.cpp",
+  "file": "/mnt/c/Users/26409/x226luo/a2/test.cpp"
+},
+{
+  "directory": "/mnt/c/Users/26409/x226luo/a2/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -std=c++11 -Wall  -g   -o CMakeFiles/ece650-a2.dir/ece650-a2.cpp.o -c /mnt/c/Users/26409/x226luo/a2/ece650-a2.cpp",
+  "file": "/mnt/c/Users/26409/x226luo/a2/ece650-a2.cpp"
+},
+{
+  "directory": "/mnt/c/Users/26409/x226luo/a2/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -std=c++11 -Wall  -g   -o CMakeFiles/ece650-a2.dir/parse.cpp.o -c /mnt/c/Users/26409/x226luo/a2/parse.cpp",
+  "file": "/mnt/c/Users/26409/x226luo/a2/parse.cpp"
+},
+{
+  "directory": "/mnt/c/Users/26409/x226luo/a2/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -std=c++11 -Wall  -g   -o CMakeFiles/ece650-a2.dir/spfa.cpp.o -c /mnt/c/Users/26409/x226luo/a2/spfa.cpp",
+  "file": "/mnt/c/Users/26409/x226luo/a2/spfa.cpp"
+}
+]

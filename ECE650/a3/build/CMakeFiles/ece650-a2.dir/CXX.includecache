@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/26409/x226luo/a3/parse.cpp
+iostream
+-
+sstream
+-
+vector
+-
+parse.h
+/mnt/c/Users/26409/x226luo/a3/parse.h
+spfa.h
+/mnt/c/Users/26409/x226luo/a3/spfa.h
+
+/mnt/c/Users/26409/x226luo/a3/parse.h
+queue
+-
+
+/mnt/c/Users/26409/x226luo/a3/spfa.cpp
+iostream
+-
+list
+-
+spfa.h
+/mnt/c/Users/26409/x226luo/a3/spfa.h
+
+/mnt/c/Users/26409/x226luo/a3/spfa.h
+vector
+-
+queue
+-
+

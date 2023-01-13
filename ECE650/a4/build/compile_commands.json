@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/mnt/c/Users/26409/x226luo/a4/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/mnt/c/Users/26409/x226luo/a4/minisat  -std=c++11 -Wall  -g   -o CMakeFiles/test.dir/test.cpp.o -c /mnt/c/Users/26409/x226luo/a4/test.cpp",
+  "file": "/mnt/c/Users/26409/x226luo/a4/test.cpp"
+},
+{
+  "directory": "/mnt/c/Users/26409/x226luo/a4/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/mnt/c/Users/26409/x226luo/a4/minisat  -std=c++11 -Wall  -g   -o CMakeFiles/ece650-a4.dir/ece650-a4.cpp.o -c /mnt/c/Users/26409/x226luo/a4/ece650-a4.cpp",
+  "file": "/mnt/c/Users/26409/x226luo/a4/ece650-a4.cpp"
+},
+{
+  "directory": "/mnt/c/Users/26409/x226luo/a4/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/mnt/c/Users/26409/x226luo/a4/minisat  -std=c++11 -Wall  -g   -o CMakeFiles/ece650-a4.dir/parse.cpp.o -c /mnt/c/Users/26409/x226luo/a4/parse.cpp",
+  "file": "/mnt/c/Users/26409/x226luo/a4/parse.cpp"
+},
+{
+  "directory": "/mnt/c/Users/26409/x226luo/a4/build/minisat",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/mnt/c/Users/26409/x226luo/a4/minisat  -g   -o CMakeFiles/minisat_simp.dir/minisat/simp/Main.cc.o -c /mnt/c/Users/26409/x226luo/a4/minisat/minisat/simp/Main.cc",
+  "file": "/mnt/c/Users/26409/x226luo/a4/minisat/minisat/simp/Main.cc"
+},
+{
+  "directory": "/mnt/c/Users/26409/x226luo/a4/build/minisat",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/mnt/c/Users/26409/x226luo/a4/minisat  -g   -o CMakeFiles/minisat_core.dir/minisat/core/Main.cc.o -c /mnt/c/Users/26409/x226luo/a4/minisat/minisat/core/Main.cc",
+  "file": "/mnt/c/Users/26409/x226luo/a4/minisat/minisat/core/Main.cc"
+},
+{
+  "directory": "/mnt/c/Users/26409/x226luo/a4/build/minisat",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dminisat_lib_shared_EXPORTS -I/mnt/c/Users/26409/x226luo/a4/minisat  -g -fPIC   -o CMakeFiles/minisat-lib-shared.dir/minisat/utils/Options.cc.o -c /mnt/c/Users/26409/x226luo/a4/minisat/minisat/utils/Options.cc",
+  "file": "/mnt/c/Users/26409/x226luo/a4/minisat/minisat/utils/Options.cc"
+},
+{
+  "directory": "/mnt/c/Users/26409/x226luo/a4/build/minisat",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dminisat_lib_shared_EXPORTS -I/mnt/c/Users/26409/x226luo/a4/minisat  -g -fPIC   -o CMakeFiles/minisat-lib-shared.dir/minisat/utils/System.cc.o -c /mnt/c/Users/26409/x226luo/a4/minisat/minisat/utils/System.cc",
+  "file": "/mnt/c/Users/26409/x226luo/a4/minisat/minisat/utils/System.cc"
+},
+{
+  "directory": "/mnt/c/Users/26409/x226luo/a4/build/minisat",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dminisat_lib_shared_EXPORTS -I/mnt/c/Users/26409/x226luo/a4/minisat  -g -fPIC   -o CMakeFiles/minisat-lib-shared.dir/minisat/core/Solver.cc.o -c /mnt/c/Users/26409/x226luo/a4/minisat/minisat/core/Solver.cc",
+  "file": "/mnt/c/Users/26409/x226luo/a4/minisat/minisat/core/Solver.cc"
+},
+{
+  "directory": "/mnt/c/Users/26409/x226luo/a4/build/minisat",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dminisat_lib_shared_EXPORTS -I/mnt/c/Users/26409/x226luo/a4/minisat  -g -fPIC   -o CMakeFiles/minisat-lib-shared.dir/minisat/simp/SimpSolver.cc.o -c /mnt/c/Users/26409/x226luo/a4/minisat/minisat/simp/SimpSolver.cc",
+  "file": "/mnt/c/Users/26409/x226luo/a4/minisat/minisat/simp/SimpSolver.cc"
+},
+{
+  "directory": "/mnt/c/Users/26409/x226luo/a4/build/minisat",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/mnt/c/Users/26409/x226luo/a4/minisat  -g   -o CMakeFiles/minisat-lib-static.dir/minisat/utils/Options.cc.o -c /mnt/c/Users/26409/x226luo/a4/minisat/minisat/utils/Options.cc",
+  "file": "/mnt/c/Users/26409/x226luo/a4/minisat/minisat/utils/Options.cc"
+},
+{
+  "directory": "/mnt/c/Users/26409/x226luo/a4/build/minisat",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/mnt/c/Users/26409/x226luo/a4/minisat  -g   -o CMakeFiles/minisat-lib-static.dir/minisat/utils/System.cc.o -c /mnt/c/Users/26409/x226luo/a4/minisat/minisat/utils/System.cc",
+  "file": "/mnt/c/Users/26409/x226luo/a4/minisat/minisat/utils/System.cc"
+},
+{
+  "directory": "/mnt/c/Users/26409/x226luo/a4/build/minisat",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/mnt/c/Users/26409/x226luo/a4/minisat  -g   -o CMakeFiles/minisat-lib-static.dir/minisat/core/Solver.cc.o -c /mnt/c/Users/26409/x226luo/a4/minisat/minisat/core/Solver.cc",
+  "file": "/mnt/c/Users/26409/x226luo/a4/minisat/minisat/core/Solver.cc"
+},
+{
+  "directory": "/mnt/c/Users/26409/x226luo/a4/build/minisat",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/mnt/c/Users/26409/x226luo/a4/minisat  -g   -o CMakeFiles/minisat-lib-static.dir/minisat/simp/SimpSolver.cc.o -c /mnt/c/Users/26409/x226luo/a4/minisat/minisat/simp/SimpSolver.cc",
+  "file": "/mnt/c/Users/26409/x226luo/a4/minisat/minisat/simp/SimpSolver.cc"
+}
+]

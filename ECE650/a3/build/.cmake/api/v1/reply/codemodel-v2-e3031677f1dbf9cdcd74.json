@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ece650-a3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ece650-a2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ece650-a2-Debug-a5abf91bce0a5516dd58.json",
+					"name" : "ece650-a2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ece650-a3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ece650-a3-Debug-8beb66bdb096d453b678.json",
+					"name" : "ece650-a3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "monitor_input::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-monitor_input-Debug-08da899fb9fc592f2e74.json",
+					"name" : "monitor_input",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rgen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rgen-Debug-6225d0b8f9dcab7e60a9.json",
+					"name" : "rgen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tests-Debug-adafd3d6f77f6e45d9e2.json",
+					"name" : "tests",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/26409/x226luo/a3/build",
+		"source" : "/mnt/c/Users/26409/x226luo/a3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

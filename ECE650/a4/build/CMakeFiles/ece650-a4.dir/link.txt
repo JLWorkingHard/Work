@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-g++-9  -std=c++11 -Wall  -g  -rdynamic CMakeFiles/ece650-a4.dir/ece650-a4.cpp.o CMakeFiles/ece650-a4.dir/parse.cpp.o  -o ece650-a4  minisat/libminisat.a -lz 

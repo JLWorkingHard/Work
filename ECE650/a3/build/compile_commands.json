@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/mnt/c/Users/26409/x226luo/a3/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -std=c++11 -Wall  -g   -o CMakeFiles/tests.dir/test.cpp.o -c /mnt/c/Users/26409/x226luo/a3/test.cpp",
+  "file": "/mnt/c/Users/26409/x226luo/a3/test.cpp"
+},
+{
+  "directory": "/mnt/c/Users/26409/x226luo/a3/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -std=c++11 -Wall  -g   -o CMakeFiles/monitor_input.dir/monitor_input.cpp.o -c /mnt/c/Users/26409/x226luo/a3/monitor_input.cpp",
+  "file": "/mnt/c/Users/26409/x226luo/a3/monitor_input.cpp"
+},
+{
+  "directory": "/mnt/c/Users/26409/x226luo/a3/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -std=c++11 -Wall  -g   -o CMakeFiles/rgen.dir/rgen.cpp.o -c /mnt/c/Users/26409/x226luo/a3/rgen.cpp",
+  "file": "/mnt/c/Users/26409/x226luo/a3/rgen.cpp"
+},
+{
+  "directory": "/mnt/c/Users/26409/x226luo/a3/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -std=c++11 -Wall  -g   -o CMakeFiles/ece650-a3.dir/ece650-a3.cpp.o -c /mnt/c/Users/26409/x226luo/a3/ece650-a3.cpp",
+  "file": "/mnt/c/Users/26409/x226luo/a3/ece650-a3.cpp"
+},
+{
+  "directory": "/mnt/c/Users/26409/x226luo/a3/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -std=c++11 -Wall  -g   -o CMakeFiles/ece650-a2.dir/ece650-a2.cpp.o -c /mnt/c/Users/26409/x226luo/a3/ece650-a2.cpp",
+  "file": "/mnt/c/Users/26409/x226luo/a3/ece650-a2.cpp"
+},
+{
+  "directory": "/mnt/c/Users/26409/x226luo/a3/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -std=c++11 -Wall  -g   -o CMakeFiles/ece650-a2.dir/parse.cpp.o -c /mnt/c/Users/26409/x226luo/a3/parse.cpp",
+  "file": "/mnt/c/Users/26409/x226luo/a3/parse.cpp"
+},
+{
+  "directory": "/mnt/c/Users/26409/x226luo/a3/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -std=c++11 -Wall  -g   -o CMakeFiles/ece650-a2.dir/spfa.cpp.o -c /mnt/c/Users/26409/x226luo/a3/spfa.cpp",
+  "file": "/mnt/c/Users/26409/x226luo/a3/spfa.cpp"
+}
+]

@@ -1,0 +1,17 @@
+/mnt/c/Users/26409/x226luo/project/build/CMakeFiles/install/local.dir
+/mnt/c/Users/26409/x226luo/project/build/CMakeFiles/install.dir
+/mnt/c/Users/26409/x226luo/project/build/CMakeFiles/list_install_components.dir
+/mnt/c/Users/26409/x226luo/project/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/26409/x226luo/project/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/26409/x226luo/project/build/CMakeFiles/install/strip.dir
+/mnt/c/Users/26409/x226luo/project/build/CMakeFiles/ece650-prj.dir
+/mnt/c/Users/26409/x226luo/project/build/minisat/CMakeFiles/install/strip.dir
+/mnt/c/Users/26409/x226luo/project/build/minisat/CMakeFiles/install/local.dir
+/mnt/c/Users/26409/x226luo/project/build/minisat/CMakeFiles/edit_cache.dir
+/mnt/c/Users/26409/x226luo/project/build/minisat/CMakeFiles/minisat_simp.dir
+/mnt/c/Users/26409/x226luo/project/build/minisat/CMakeFiles/install.dir
+/mnt/c/Users/26409/x226luo/project/build/minisat/CMakeFiles/list_install_components.dir
+/mnt/c/Users/26409/x226luo/project/build/minisat/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/26409/x226luo/project/build/minisat/CMakeFiles/minisat_core.dir
+/mnt/c/Users/26409/x226luo/project/build/minisat/CMakeFiles/minisat-lib-shared.dir
+/mnt/c/Users/26409/x226luo/project/build/minisat/CMakeFiles/minisat-lib-static.dir
